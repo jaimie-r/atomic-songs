@@ -8,14 +8,6 @@
         "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
         "type": "Canvas",
         "duration": 174.74,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas/test.json",
-            "label": "test"
-          }
-        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/paintings",
