@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Buchanan Brothers" ] },
+    "items": [
+      {
+        "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 174.74,
+        "items": [
+          {
+            "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://archive.org/download/06AtSundownAIFF/06%20At%20Sundown%20%28AIFF%29.aif",
+                    "duration": 174.74
+                },
+                "target": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
