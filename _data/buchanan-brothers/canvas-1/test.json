@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas/test.json",
+  "type": "AnnotationPage",
+  "label": "test",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas/test-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is a test",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18300,18660"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas/test-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Another test is here",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21960,25620"
+        }
+      }
+    }
+  ]
+}
