@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/atomic-songs/annotations/buchanan-brothers-canvas-1-0.json",
+  "type": "AnnotationPage",
+  "label": "0",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas/0-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "0",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0"
+        }
+      }
+    }
+  ]
+}

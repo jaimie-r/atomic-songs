@@ -8,6 +8,26 @@
         "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/canvas",
         "type": "Canvas",
         "duration": 174.74,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-songs/annotations/buchanan-brothers-canvas-1-https___benwbrum_github_io_atomic_songs_annotations_buchanan_brothers_canvas_1_14_json.json",
+            "label": "14"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-songs/annotations/buchanan-brothers-canvas-1-https___benwbrum_github_io_atomic_songs_annotations_buchanan_brothers_canvas_1_0_json.json",
+            "label": "0"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-songs/annotations/buchanan-brothers-canvas-1-https___benwbrum_github_io_atomic_songs_annotations_buchanan_brothers_canvas_1_20_json.json",
+            "label": "20"
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/atomic-songs/buchanan-brothers/canvas-1/paintings",
