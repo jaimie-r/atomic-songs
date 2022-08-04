@@ -1,9 +1,0 @@
-{
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://benwbrum.github.io/atomic-songs/annotations/buchanan-brothers-canvas-1-20.json",
-  "type": "AnnotationPage",
-  "label": "20",
-  "items": [
-
-  ]
-}
