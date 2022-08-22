@@ -1,0 +1,1 @@
+{{ site.data.annotation_store[page.annotation_page_slug] | jsonify }}
